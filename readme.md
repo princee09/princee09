@@ -58,6 +58,10 @@ I like working on projects involving:
 * MongoDB Atlas
 
 ---
+# 💻 LeetCode Stats
 
-💻 LeetCode Stats
-<div align="center"> <img src="https://leetcard.jacoblin.cool/https://leetcode.com/u/kp198237/?theme=dark&font=Nunito&ext=contest" /> </div>
+<div align="center">
+
+<img src="https://leetcard.jacoblin.cool/kp198237?theme=dark&font=Nunito&ext=contest" />
+
+</div>
