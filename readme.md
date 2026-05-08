@@ -59,3 +59,5 @@ I like working on projects involving:
 
 ---
 
+💻 LeetCode Stats
+<div align="center"> <img src="https://leetcard.jacoblin.cool/https://leetcode.com/u/kp198237/?theme=dark&font=Nunito&ext=contest" /> </div>
