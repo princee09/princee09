@@ -1,7 +1,7 @@
 <!-- ===================== HEADER ===================== -->
 <div align="center">
 
-# Hi, I'm Shivendra Pratap
+# Hi, My name is Kumar Prince
 
 ### BTech CSE Student | Machine Learning Minor | Aspiring Software Engineer
 
@@ -43,9 +43,9 @@ Machine Learning • Computer Vision • Backend Development • Linux • Syste
 ## Connect
 
 <p align="left">
-  <a href="https://github.com/shivendra911">GitHub</a> •
-  <a href="https://linkedin.com/in/shivendra--pratap">LinkedIn</a> •
-  <a href="mailto:shivendrapratapsp3@gmail.com">Email</a>
+  <a href="https://github.com/princee09">GitHub</a> •
+  <a href="https://www.linkedin.com/in/kumar-prince-/">LinkedIn</a> •
+  <a href="mailto:kp198237@gmail.com">Email</a>
 </p>
 # 💻 LeetCode Stats
 
