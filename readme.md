@@ -1,63 +1,52 @@
-# Hi, I'm Prince 👋
+<!-- ===================== HEADER ===================== -->
+<div align="center">
 
-## About Me
+# Hi, I'm Shivendra Pratap
 
-I’m a Computer Science student at Lovely Professional University (LPU) with a strong interest in AI, Machine Learning, Full-Stack Development, and System Design. I enjoy building practical, end-to-end projects that solve real-world problems.
+### BTech CSE Student | Machine Learning Minor | Aspiring Software Engineer
 
-I like working on projects involving:
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=500&size=18&lines=Actively+Seeking+Internships+%26+Placements;Machine+Learning+%7C+DSA+%7C+Linux;AI+%26+Automation+Project+Builder;Consistent+Learner+%26+Problem+Solver" />
 
-* Artificial Intelligence & Machine Learning
-* ECG Signal Analysis & Healthcare AI
-* Full-Stack Web Development
-* Backend Systems & APIs
-* Optimization Algorithms & Reinforcement Learning
-* Authentication Systems & Chat Applications
-* Data Structures & Algorithms
+```text
+> build * learn * improve
+```
+
+</div>
+
+---
+
+## About
+
+- Computer Science Engineering student with a minor in Machine Learning
+- Interested in software engineering, machine learning, and backend systems
+- Building projects in computer vision, automation, and Linux environments
+- Currently focused on DSA, system design, and practical development skills
 
 ---
 
-# 🚀 Skills
+## Technical Skills
 
-## Programming Languages
+**Languages**  
+<img src="https://skillicons.dev/icons?i=python,cpp,java,javascript,typescript,bash&theme=dark" />
 
-* C++
-* Python
-* JavaScript
-* SQL
+**Frameworks & Technologies**  
+<img src="https://skillicons.dev/icons?i=flask,pytorch,tensorflow,nodejs&theme=dark" />
 
-## Web Development
+**Tools & Platforms**  
+<img src="https://skillicons.dev/icons?i=linux,git,github,docker,aws,kubernetes,mysql,vscode&theme=dark" />
 
-* Node.js
-* Express.js
-* MongoDB
-* REST APIs
-* OAuth Authentication
-* JWT Authentication
-* Session Management
-* HTML
-* CSS
-* Streamlit
-
-## AI / Machine Learning
-
-* PyTorch
-* Vision Transformers (ViT)
-* Grad-CAM
-* OpenCV
-* ECG Signal Processing
-* Classification Models
-* Data Analysis
-* Feature Engineering
-
-## Tools & Technologies
-
-* Git & GitHub
-* VS Code
-* Postman
-* Linux
-* MongoDB Atlas
+**Focus Areas**  
+Machine Learning • Computer Vision • Backend Development • Linux • System Design
 
 ---
+
+## Connect
+
+<p align="left">
+  <a href="https://github.com/shivendra911">GitHub</a> •
+  <a href="https://linkedin.com/in/shivendra--pratap">LinkedIn</a> •
+  <a href="mailto:shivendrapratapsp3@gmail.com">Email</a>
+</p>
 # 💻 LeetCode Stats
 
 <div align="center">
